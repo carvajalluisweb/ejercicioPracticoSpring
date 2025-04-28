@@ -1,0 +1,77 @@
+# Maven
+/target/
+!.mvn/wrapper/maven-wrapper.jar
+
+# IDEs
+/.idea/
+/*.iml
+/.classpath
+/.project
+/.settings/
+/.vscode/
+
+# Logs
+*.log
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+
+# Spring Boot
+/spring-boot-devtools.properties
+
+# Coverage Reports
+/coverage/
+/jacoco.exec
+/target/site/jacoco/
+
+# Base de datos temporal
+*.h2.db
+
+# Otros
+/node_modules/
+npm-debug.log
+.env
+
+# Maven
+/target/
+!.mvn/wrapper/maven-wrapper.jar
+
+# IDEs
+/.idea/
+/*.iml
+/.classpath
+/.project
+/.settings/
+/.vscode/
+
+# Logs
+*.log
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+
+# Spring Boot
+/spring-boot-devtools.properties
+
+# Coverage Reports
+/coverage/
+/jacoco.exec
+/target/site/jacoco/
+
+# Base de datos temporal
+*.h2.db
+
